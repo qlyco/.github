@@ -1,6 +1,6 @@
-# QLYCO
+# .github
 
-We create ___digital stuff___.
+Organization Profile
 
 <!--- [website](https://qlycoworks.com)
 - [play store](https://play.google.com/store/apps/dev?id=7409674058629890490)
